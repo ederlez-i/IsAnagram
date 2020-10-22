@@ -5,7 +5,6 @@ with classic method and frequency method.
 */
 
 #include<iostream>
-#include<cstdlib>
 #include<cstring>
 
 using namespace std;
